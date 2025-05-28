@@ -1,0 +1,2 @@
+[17-Oct-2024 11:57:37 UTC] PHP Warning:  file_put_contents(/var/www/html/visitor_log.txt): failed to open stream: Permission denied in /home/lfc8bf4llmkv/public_html/log_page.php on line 110
+[17-Oct-2024 12:00:04 UTC] PHP Warning:  file_put_contents(/var/www/html/visitor_log.txt): failed to open stream: Permission denied in /home/lfc8bf4llmkv/public_html/log_page.php on line 110

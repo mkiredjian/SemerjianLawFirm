@@ -1,0 +1,37 @@
+[08-Aug-2022 12:11:02 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR), expecting end of file in /home/lfc8bf4llmkv/public_html/workshop/services-detail.php on line 2
+[08-Aug-2022 12:11:26 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR), expecting end of file in /home/lfc8bf4llmkv/public_html/workshop/services-detail.php on line 2
+[08-Aug-2022 12:11:35 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR), expecting end of file in /home/lfc8bf4llmkv/public_html/workshop/services-detail.php on line 2
+[08-Aug-2022 12:14:27 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR), expecting end of file in /home/lfc8bf4llmkv/public_html/workshop/detail.php on line 2
+[08-Aug-2022 12:15:46 UTC] PHP Notice:  Undefined variable: _Get in /home/lfc8bf4llmkv/public_html/workshop/detail.php on line 2
+[08-Aug-2022 12:15:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lfc8bf4llmkv/public_html/workshop/detail.php on line 2
+[08-Aug-2022 12:16:29 UTC] PHP Parse error:  syntax error, unexpected '$activetab' (T_VARIABLE) in /home/lfc8bf4llmkv/public_html/workshop/detail.php on line 3
+[08-Aug-2022 12:16:42 UTC] PHP Notice:  Undefined variable: _Get in /home/lfc8bf4llmkv/public_html/workshop/detail.php on line 2
+[08-Aug-2022 12:16:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lfc8bf4llmkv/public_html/workshop/detail.php on line 2
+[08-Aug-2022 12:16:54 UTC] PHP Notice:  Undefined variable: _Get in /home/lfc8bf4llmkv/public_html/workshop/detail.php on line 2
+[08-Aug-2022 12:16:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lfc8bf4llmkv/public_html/workshop/detail.php on line 2
+[08-Aug-2022 12:18:44 UTC] PHP Notice:  Undefined variable: _Get in /home/lfc8bf4llmkv/public_html/workshop/detail.php on line 2
+[08-Aug-2022 12:18:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lfc8bf4llmkv/public_html/workshop/detail.php on line 2
+[08-Aug-2022 12:19:58 UTC] PHP Notice:  Undefined variable: _Get in /home/lfc8bf4llmkv/public_html/workshop/detail.php on line 2
+[08-Aug-2022 12:19:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lfc8bf4llmkv/public_html/workshop/detail.php on line 2
+[08-Aug-2022 12:23:29 UTC] PHP Notice:  Undefined variable: _Get in /home/lfc8bf4llmkv/public_html/workshop/detail.php on line 2
+[08-Aug-2022 12:23:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lfc8bf4llmkv/public_html/workshop/detail.php on line 2
+[08-Aug-2022 12:23:49 UTC] PHP Notice:  Undefined variable: _Get in /home/lfc8bf4llmkv/public_html/workshop/detail.php on line 2
+[08-Aug-2022 12:23:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lfc8bf4llmkv/public_html/workshop/detail.php on line 2
+[08-Aug-2022 12:24:41 UTC] PHP Notice:  Undefined variable: _Get in /home/lfc8bf4llmkv/public_html/workshop/detail.php on line 2
+[08-Aug-2022 12:24:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lfc8bf4llmkv/public_html/workshop/detail.php on line 2
+[08-Aug-2022 12:25:09 UTC] PHP Notice:  Undefined variable: _Get in /home/lfc8bf4llmkv/public_html/workshop/detail.php on line 2
+[08-Aug-2022 12:25:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/lfc8bf4llmkv/public_html/workshop/detail.php on line 2
+[08-Aug-2022 12:48:55 UTC] PHP Notice:  Undefined index: tabIndex in /home/lfc8bf4llmkv/public_html/workshop/detail.php on line 2
+[08-Aug-2022 12:49:05 UTC] PHP Notice:  Undefined index: tabIndex in /home/lfc8bf4llmkv/public_html/workshop/detail.php on line 2
+[08-Aug-2022 12:49:22 UTC] PHP Notice:  Undefined index: tabIndex in /home/lfc8bf4llmkv/public_html/workshop/detail.php on line 2
+[08-Aug-2022 12:50:08 UTC] PHP Notice:  Undefined index: tabIndex in /home/lfc8bf4llmkv/public_html/workshop/detail.php on line 2
+[24-Aug-2022 10:14:04 UTC] PHP Notice:  Undefined variable: username in /home/lfc8bf4llmkv/public_html/workshop/sendemail.php on line 17
+[24-Aug-2022 10:29:55 UTC] PHP Notice:  Undefined index: topic in /home/lfc8bf4llmkv/public_html/workshop/sendemail.php on line 10
+[24-Aug-2022 10:29:55 UTC] PHP Notice:  Undefined variable: username in /home/lfc8bf4llmkv/public_html/workshop/sendemail.php on line 19
+[24-Aug-2022 10:29:55 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/lfc8bf4llmkv/public_html/workshop/sendemail.php on line 21
+[24-Aug-2022 10:32:21 UTC] PHP Notice:  Undefined index: topic in /home/lfc8bf4llmkv/public_html/workshop/sendemail.php on line 10
+[24-Aug-2022 10:32:21 UTC] PHP Notice:  Undefined variable: username in /home/lfc8bf4llmkv/public_html/workshop/sendemail.php on line 19
+[24-Aug-2022 10:33:48 UTC] PHP Notice:  Undefined index: topic in /home/lfc8bf4llmkv/public_html/workshop/sendemail.php on line 10
+[24-Aug-2022 10:33:48 UTC] PHP Notice:  Undefined variable: username in /home/lfc8bf4llmkv/public_html/workshop/sendemail.php on line 19
+[24-Aug-2022 10:34:52 UTC] PHP Notice:  Undefined variable: username in /home/lfc8bf4llmkv/public_html/workshop/sendemail.php on line 19
+[24-Aug-2022 10:36:50 UTC] PHP Notice:  Undefined variable: username in /home/lfc8bf4llmkv/public_html/workshop/sendemail.php on line 19
